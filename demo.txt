@@ -2,7 +2,7 @@
 head{all meta data
 meta
 }
-body{overall data which are visible in a webpage will be here }
+body{overall data whicch are visible in a webpage will be here }
 
 
 
