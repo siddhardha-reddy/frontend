@@ -1,0 +1,33 @@
+<!DOCTYPEHTML>---Says wether the file belongs to which type to the browser
+head{all meta data
+meta
+}
+body{overall data which are visible in a webpage will be here }
+
+
+
+HTML    Hyper Text Markup Language
+HTML    used to define the structure
+<DOCTYPEHTML>   To define the doctype is either html or xml
+
+<head>
+continer for meta data-----inbetween html tag ang body tag
+metadata is data about the html document
+it is not displayed on the screen {title,charset,styles,scripts,ND OTHER  }
+
+title
+
+meta
+
+
+</head>
+
+
+<body>---
+
+
+structure of html taggs
+
+<tag attributes (start tag)>content(text)</tag (end tag)>
+
+structure of void tags---</tag>
